@@ -38,7 +38,7 @@
 
 <a href = "https://www.linkedin.com/in/sanskar-sharma-24baa5227/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sanskarshrm"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://leetcode.com/sanskarshrm/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"/></a>
+<a href = "https://leetcode.com/sanskarshrm/"><img src="[https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png](https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job)https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job"/></a>
 
 
 </p>
