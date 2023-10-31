@@ -31,7 +31,7 @@
    <img src="https://img.icons8.com/color/48/000000/figma--v1.png"width=45 height=45/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=45 height=45 />
 </p>
-[![An image of @mastersans's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mastersans)](https://holopin.io/@mastersans)
+[![An image of @mastersans's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mastersans)]
 
 ## Connect with me:
 <p align="left">
