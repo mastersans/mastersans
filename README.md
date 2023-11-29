@@ -6,7 +6,7 @@
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Golang** and other **DevOps Tools**
+- 🌱 I’m currently learning **Golang** 
  
 - 🔥 I'm also enhancing myself in **Competitive Programming**
 
