@@ -3,16 +3,6 @@
 <h1 align="center">Hi, I'm Sanskar!
 <h3 align="center">Computer Science Major, With a keen interest in Open Source Security.</h3>
 
- ## 🙋‍♂️ About Me
-
-
-- 🌱 I’m currently learning **Golang** 
- 
-- 🔥 I'm also enhancing myself in **Competitive Programming**
-
-- 👯 I’m looking to collaborate on **Open Source Projects** 
-
-- 📫 Reach out to me at my **<a href="mailto:sanskarsharma3110@gmail.com">Email</a>**
   
   [![@mastersans's Holopin board](https://holopin.me/mastersans)](https://holopin.io/@mastersans)
 
