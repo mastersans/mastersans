@@ -3,9 +3,6 @@
 <h1 align="center">Hi, I'm Sanskar!
 <h3 align="center">Computer Science Major, With a keen interest in Open Source Security.</h3>
 
-  
-  [![@mastersans's Holopin board](https://holopin.me/mastersans)](https://holopin.io/@mastersans)
-
  
 ## 🚀 Languages and Tools:
 
